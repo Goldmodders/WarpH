@@ -10,4 +10,10 @@ https://raw.githubusercontent.com/Goldmodders/WarpH/main/Azar-warp-Single#Azar-w
 
 
 
+https://raw.githubusercontent.com/Goldmodders/WarpH/main/Azar-hysteria2#Azar-hysteria2
+
+
+
+
+
 https://github.com/hiddify/hiddify-next/releases/
