@@ -1,3 +1,3 @@
-https://raw.githubusercontent.com/Goldmodders/WarpH/main/Hiddify#AZAR_WARP
+https://raw.githubusercontent.com/Goldmodders/WarpH/main/Hiddify#AZARWARP
 
-
+https://github.com/hiddify/hiddify-next/releases/
