@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/Goldmodders/WarpH/main/Azar-hysteria2#Azar-hys
 <h1>Hiddify to Conncect:</h1>
 https://github.com/hiddify/hiddify-next/releases/
 <h1>Android Client:</h1>
-https://github.com/hiddify/hiddify-next/releases/download/v0.15.6/Hiddify-Android-arm7.apk
+https://github.com/hiddify/hiddify-next/releases/download/v0.15.4/Hiddify-Android-arm7.apk
 <h1>Windows Client:</h1>
 https://github.com/hiddify/hiddify-next/releases/download/v0.15.6/Hiddify-Windows-Portable-x64.zip
