@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/Goldmodders/WarpH/main/Hiddify#AZARWARP
 <img loading="QR" src="/hiddifyqr.png" width="300" height="300" alt="QR">
 
 
+https://raw.githubusercontent.com/Goldmodders/WarpH/main/AZARH1Warp#AZARH1Warp
+<div>
+<img loading="QR" src="/AZARH1Warpqr.png" width="300" height="300" alt="QR">
 
 <h1>Warp With Open config:</h1>
 https://raw.githubusercontent.com/Goldmodders/WarpH/main/Azar-warp-Single#Azar-warp-Single
