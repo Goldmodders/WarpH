@@ -1,45 +1,6 @@
 {
   "outbounds": [
-    {
-      "password": "dongtaiwang.com",
-      "server": "62.210.101.0",
-      "server_port": 52465,
-      "tag": "AZR 🇫🇷 § 0",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "password": "dongtaiwang.com",
-      "server": "62.210.103.0",
-      "server_port": 52465,
-      "tag": "AZR 🇫🇷 § 1",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "205ef172277d3292",
-        "type": "salamander"
-      },
-      "password": "04979c3cfe2a7945",
-      "server": "92.246.139.15",
-      "server_port": 443,
-      "tag": "AZR 🇦🇲 § 2",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
+    
     {
       "obfs": {
         "password": "a16d0be0",
@@ -49,34 +10,6 @@
       "server": "70.34.213.123",
       "server_port": 443,
       "tag": "AZR 🇸🇪 § 3",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "7925a5b3071cb35f",
-        "type": "salamander"
-      },
-      "password": "2f1b122607f533dc",
-      "server": "51.222.12.75",
-      "server_port": 443,
-      "tag": "AZR 🇨🇦 § 4",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "password": "dongtaiwang.com",
-      "server": "64.110.25.11",
-      "server_port": 33337,
-      "tag": "AZR 🇺🇸 § 5",
       "tls": {
         "enabled": true,
         "insecure": true,
@@ -96,50 +29,7 @@
       },
       "type": "hysteria2"
     },
-    {
-      "obfs": {
-        "password": "05462d067f21387c",
-        "type": "salamander"
-      },
-      "password": "536a1e178ea00bf2",
-      "server": "95.217.211.216",
-      "server_port": 443,
-      "tag": "AZR 🇫🇮 § 7",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "password": "dongtaiwang.com",
-      "server": "51.158.54.46",
-      "server_port": 44550,
-      "tag": "AZR 🇫🇷 § 8",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "2pU!\u0026Brls!0exuP+!4so",
-        "type": "salamander"
-      },
-      "password": "y0qochAspE+u-HLfrip-",
-      "server": "45.32.234.211",
-      "server_port": 443,
-      "tag": "AZR 🇳🇱 § 9",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
+    
     {
       "obfs": {
         "password": "ca39a177",
@@ -188,85 +78,7 @@
       },
       "type": "hysteria2"
     },
-    {
-      "obfs": {
-        "password": "7925a5b3071cb35f",
-        "type": "salamander"
-      },
-      "password": "2f1b122607f533dc",
-      "server": "2607:5300:205:200::1926",
-      "server_port": 443,
-      "tag": "AZR 🇨🇦 § 13",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "d017e316-82cb-441c-8eea-7b5e9de64a20",
-        "type": "salamander"
-      },
-      "password": "d017e316-82cb-441c-8eea-7b5e9de64a20",
-      "server": "45.150.165.84",
-      "server_port": 8881,
-      "tag": "AZR 🇺🇸 § 14",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "8c3ce17b",
-        "type": "salamander"
-      },
-      "password": "f6e4b19a3110d19d",
-      "server": "2001:19f0:1000:6daf:5400:4ff:feba:32c3",
-      "server_port": 443,
-      "tag": "AZR 🇺🇸 § 15",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "8c3ce17b",
-        "type": "salamander"
-      },
-      "password": "f6e4b19a3110d19d",
-      "server": "66.135.28.59",
-      "server_port": 443,
-      "tag": "AZR 🇺🇸 § 16",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "05462d067f21387c",
-        "type": "salamander"
-      },
-      "password": "536a1e178ea00bf2",
-      "server": "2a01:4f9:c012:c3fd::1",
-      "server_port": 443,
-      "tag": "AZR 🇩🇪 § 17",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "speedtest.org"
-      },
-      "type": "hysteria2"
-    },
+    
     {
       "obfs": {
         "password": "bd7f765e",
