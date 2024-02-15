@@ -152,7 +152,7 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "www.apple.com"
+        "server_name": "speedtest.org"
       },
       "type": "hysteria2"
     },
