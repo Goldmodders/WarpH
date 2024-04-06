@@ -4,11 +4,15 @@ https://raw.githubusercontent.com/Goldmodders/WarpH/main/AZAR-WARP-IRAN-PLUS#AZA
 <div>
 <img loading="QR" src="/AZAR-WARP-IRAN-PLUS.png" width="300" height="300" alt="QR">
 
+  <h1>Find Cloudflare Clean Ips:</h1>
+  https://github.com/Goldmodders/WarpH/blob/main/warp-1.1.zip
+  <img loading="QR" src="/warp-1.1.zip" width="300" height="300" alt="warp">
+
+
 
 <h1>Warp With Clean Ips:</h1>
 https://raw.githubusercontent.com/Goldmodders/WarpH/main/AZARH1Warp#AZARH1Warp
 <div>
-<img loading="QR" src="/AZARH1Warpqr.png" width="300" height="300" alt="QR">
 
 <h1>Warp With Open config:</h1>
 https://raw.githubusercontent.com/Goldmodders/WarpH/main/Azar-warp-Single#Azar-warp-Single
