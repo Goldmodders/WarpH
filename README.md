@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/Goldmodders/WarpH/main/AZAR-WARP-IRAN-PLUS#AZA
 
   <h1>Find Cloudflare Clean Ips:</h1>
   https://github.com/Goldmodders/WarpH/blob/main/warp-1.1.zip
-  <img loading="QR" src="/warp-1.1.zip" width="300" height="300" alt="warp">
+  <img loading="QR" src="/warp-1.1.png" width="300" height="300" alt="warp">
 
 
 
